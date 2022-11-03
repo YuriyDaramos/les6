@@ -22,7 +22,7 @@ OPERATORS = {
 
 EXIT_COMMAND = "\q"
 CLEAR_COMMAND = "\c"
-
+# tetettet
 ERROR_MSG_INVALID_DATA = "Invalid data"
 
 a = None
