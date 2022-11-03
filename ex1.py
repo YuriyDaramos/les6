@@ -26,4 +26,3 @@ def func(start_list, finish_list=None):
 
 
 result = func(list_1)
-pass
